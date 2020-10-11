@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830650239811",
+    "firebase_url": "https://bg-cakes.firebaseio.com",
+    "project_id": "bg-cakes",
+    "storage_bucket": "bg-cakes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830650239811:android:63204ef700d95bcf597df6",
+        "android_client_info": {
+          "package_name": "com.example.bg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830650239811-jhphnhvqm74st3ppqjp25ogm26bcf8au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bg",
+            "certificate_hash": "9e8186a6eaed7ec9198619f19c22784566a73285"
+          }
+        },
+        {
+          "client_id": "830650239811-gmv6fm71a8nac0vhcvkm5d2v0f1pbeb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATSOyV6rpGSLAZoDhSo3HMUt8gVqufAao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830650239811-gmv6fm71a8nac0vhcvkm5d2v0f1pbeb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

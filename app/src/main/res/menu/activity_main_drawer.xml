@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/my_order"
+            android:icon="@drawable/ic_my_order"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/my_rewards"
+            android:icon="@drawable/ic_redeem"
+            android:title="My Rewards" />
+        <item
+            android:id="@+id/my_cart"
+            android:icon="@drawable/ic_shopping_cart_black"
+            android:title="My Cart" />
+        <item
+            android:id="@+id/my_wishlist"
+            android:icon="@drawable/ic_wishlist"
+            android:title="My Wishlist" />
+        <item
+            android:id="@+id/my_account"
+            android:icon="@drawable/ic__person"
+            android:title="My account" />
+    </group>
+</menu>
